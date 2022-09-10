@@ -1,0 +1,12 @@
+[
+ {
+   "repository" : "dopaemon/vendor_xiaomi_mojito",
+   "target_path": "vendor/xiaomi/mojito",
+   "branch"     : "13"
+ },
+ {
+   "repository" : "dopaemon/msm-4.14",
+   "target_path": "kernel/xiaomi/mojito",
+   "branch"     : "mojito"
+ }
+]
